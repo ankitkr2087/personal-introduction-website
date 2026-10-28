@@ -5,6 +5,10 @@
 
 A personal portfolio-style webpage built with HTML, CSS, and JavaScript.
 
+## 🖥️ Website Preview
+
+![Personal Introduction Website](website-preview.png)
+
 ## ✨ Features
 
 - Dark and light theme toggle with saved theme preference
