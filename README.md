@@ -1,7 +1,9 @@
 
 # Personal Introduction Website
 
-A personal portfolio-style webpage created as a frontend development practice project while exploring HTML, CSS, and JavaScript.
+[🌐 View Live Website](https://ankitkr2087.github.io/personal-introduction-website/)
+
+A personal portfolio-style webpage built with HTML, CSS, and JavaScript.
 
 ## ✨ Features
 
